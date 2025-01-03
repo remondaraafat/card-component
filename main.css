@@ -34,8 +34,8 @@ section {
     background-color: var(--white);
     display: flex;
     flex-direction: row;
-    width: 40%;
-    height: 55%;
+    width: 30%;
+    height: 40%;
     border-radius: 10px;
     max-height: 700px;
 }
