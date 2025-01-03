@@ -30,8 +30,8 @@ section {
     background-color: var(--white);
     display: flex;
     flex-direction: row;
-    width: 60%;
-    height: 80%;
+    width: 55%;
+    height: 70%;
     border-radius: 10px;
     max-height: 700px;
 }
