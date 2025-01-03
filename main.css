@@ -17,8 +17,12 @@ body{
     background-color: var(--cream);
 }
 p{
+    margin-top: 0px;
     font-size: 14px;
     color: var(--dark-grayish-blue);
+}
+div{
+    margin-top: 0px;
 }
 section {
     display: flex;
@@ -30,8 +34,8 @@ section {
     background-color: var(--white);
     display: flex;
     flex-direction: row;
-    width: 55%;
-    height: 70%;
+    width: 50%;
+    height: 65%;
     border-radius: 10px;
     max-height: 700px;
 }
@@ -63,6 +67,7 @@ img{
     color: var(--dark-grayish-blue);
 }
 h1{
+    margin-top: 0px;
     font-family: "Fraunces";
     color: var(--very-dark-blue);
 }
